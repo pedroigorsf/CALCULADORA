@@ -9,7 +9,7 @@ Calculadora Web criado com HTML, CSS e JavaScript, feito para realizar operaçõ
 - Materializecss
 
 #IDE
-Visual Studio Code
+- Visual Studio Code
 
 #BUGS
 - Não foi adicionado um condição para informar um erro quando o calculo for dividido por zero "0".
